@@ -15,7 +15,7 @@ namespace SimpleMath.AddTests
         public void addTest()
         {
             var i = new SimpleMath.Add().add(5, 4);
-            //System.Threading.Thread.Sleep(((1 * 1000) * 62) * 10); // sleep for a little over 10 mins. testgd
+            //System.Threading.Thread.Sleep(((1 * 1000) * 62) * 10); // sleep for a little over 10 mins. testgdf
         }
 
         [TestMethod()]
