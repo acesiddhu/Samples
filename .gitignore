@@ -43,3 +43,4 @@
 *.pdb
 /IntelliTest/PathCoverage/.vs/PathCoverage/v15
 /IntelliTest/PathCoverage/PathCoverage/obj/Debug
+/IntelliTest/PathCoverage/PathCoverage/obj/Release
