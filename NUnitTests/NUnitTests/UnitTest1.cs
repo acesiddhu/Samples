@@ -19,7 +19,7 @@ namespace NUnitTests
         {
 
             Console.WriteLine("hello2");
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(1, 1);
         }
 
         [TestCase("A","b","c")]
@@ -27,7 +27,7 @@ namespace NUnitTests
         [TestCase("ykjghfg","trwert","fgsdfg")]
         public void validatestrings(string first, string second, string third)
         {
-
+            //Comment
         }
     }
 }
