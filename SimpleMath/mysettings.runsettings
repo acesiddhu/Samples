@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<RunSettings>
+ <RunConfiguration>  
+    <TestAdaptersPaths>C:\CustomDataCollectors\</TestAdaptersPaths>  
+  </RunConfiguration>  
+    <DataCollectionRunSettings>
+        <DataCollectors>
+           
+			<DataCollector friendlyName="SampleDataCollector" uri="dataCollector://sample/MyCustomDatacollector" assemblyQualifiedName="MySampleDataCollector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />  
+    
+        </DataCollectors>
+    </DataCollectionRunSettings>
+</RunSettings>
